@@ -27,7 +27,7 @@
 <br>
  <div align="center"> <br>
      
-### :fire: My Stats: 
+### :fire: Stats: 
 
 <br>
   <a href="https://git.io/streak-stats">
